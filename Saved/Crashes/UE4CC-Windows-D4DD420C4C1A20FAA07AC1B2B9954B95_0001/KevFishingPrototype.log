@@ -1,0 +1,1321 @@
+﻿Log file open, 08/06/20 21:04:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KevFishingPrototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.323714
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Docs/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:731][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.06-19.04.33:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.06-19.04.33:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.06-19.04.33:739][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.06-19.04.33:739][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.06-19.04.33:741][  0]LogHAL: Display: Platform has ~ 16 GB [17126019072 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.06-19.04.33:741][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.06-19.04.33:741][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:741][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.06-19.04.33:741][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.06-19.04.33:741][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:741][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.06-19.04.33:742][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Scalability.ini]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.06-19.04.33:743][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Config/Windows/Engine.ini]
+[2020.08.06-19.04.33:743][  0]LogInit: Computer: DESKTOP-FGR6TAK
+[2020.08.06-19.04.33:743][  0]LogInit: User: Oxido
+[2020.08.06-19.04.33:743][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.06-19.04.33:743][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.06-19.04.33:743][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.06-19.04.33:743][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.06-19.04.33:743][  0]LogMemory: Process Physical Memory: 104.00 MB used, 104.00 MB peak
+[2020.08.06-19.04.33:743][  0]LogMemory: Process Virtual Memory: 99.77 MB used, 99.77 MB peak
+[2020.08.06-19.04.33:743][  0]LogMemory: Physical Memory: 7167.60 MB used,  9165.04 MB free, 16332.64 MB total
+[2020.08.06-19.04.33:743][  0]LogMemory: Virtual Memory: 5121.19 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.08.06-19.04.33:746][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.06-19.04.33:758][  0]LogInit: Using OS detected language (en-US).
+[2020.08.06-19.04.33:758][  0]LogInit: Using OS detected locale (en-GB).
+[2020.08.06-19.04.33:758][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.06-19.04.33:922][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.06-19.04.33:949][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.06-19.04.33:949][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.06-19.04.34:061][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.08.06-19.04.34:061][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.06-19.04.34:062][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.06-19.04.34:062][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.06-19.04.34:089][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2020.08.06-19.04.34:089][  0]LogD3D11RHI:       4072/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.08.06-19.04.34:091][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.06-19.04.34:091][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.06-19.04.34:091][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.06-19.04.34:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.06-19.04.34:097][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.06-19.04.34:097][  0]LogWindows: EnumDisplayDevices:
+[2020.08.06-19.04.34:097][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2020.08.06-19.04.34:097][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2020.08.06-19.04.34:098][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:098][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:098][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:098][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:099][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:099][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.08.06-19.04.34:099][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.08.06-19.04.34:099][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2020.08.06-19.04.34:099][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.4.2 (internal:26.20.15029.27017, unified:26.20.15029.27017)
+[2020.08.06-19.04.34:099][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.08.06-19.04.34:099][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2020.08.06-19.04.34:140][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.08.06-19.04.34:140][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.06-19.04.34:153][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.08.06-19.04.34:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.06-19.04.34:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.06-19.04.34:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.06-19.04.34:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.06-19.04.34:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.06-19.04.34:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.06-19.04.34:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.06-19.04.34:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.06-19.04.34:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.06-19.04.34:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.06-19.04.34:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.06-19.04.34:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.06-19.04.34:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.06-19.04.34:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.06-19.04.34:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.06-19.04.34:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.06-19.04.34:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.06-19.04.34:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.06-19.04.34:910][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.06-19.04.34:912][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.06-19.04.34:928][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Intermediate/Shaders/WorkingDirectory/8824/).
+[2020.08.06-19.04.34:928][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Oxido/AppData/Local/Temp/UnrealShaderWorkingDir/2298B41A4F0108CAD37AE0ABE4E4E104/'.
+[2020.08.06-19.04.34:928][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.06-19.04.34:928][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.06-19.04.34:928][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.06-19.04.35:713][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Oxido/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Oxido/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.06-19.04.35:769][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.06-19.04.35:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.06-19.04.35:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.06-19.04.35:780][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.06-19.04.35:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Oxido/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.06-19.04.35:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.06-19.04.35:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.06-19.04.35:806][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.06-19.04.35:808][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.06-19.04.35:809][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.06-19.04.35:872][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.08.06-19.04.36:171][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.06-19.04.36:308][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.06-19.04.36:308][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.06-19.04.36:308][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.06-19.04.36:308][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.06-19.04.36:308][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.06-19.04.36:327][  0]LogNetVersion: KevFishingPrototype 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3431372321)
+[2020.08.06-19.04.37:376][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035334 seconds
+[2020.08.06-19.04.37:383][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.06-19.04.37:383][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.06-19.04.37:383][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.06-19.04.37:818][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.06-19.04.37:843][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.06-19.04.37:907][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.37:907][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.37:908][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.37:908][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.37:909][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.37:969][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.06-19.04.37:976][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.06-19.04.37:976][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.06-19.04.38:056][  0]LogOcInput: OculusInput pre-init called
+[2020.08.06-19.04.38:061][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.06-19.04.38:061][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.06-19.04.38:125][  0]LogEngine: Initializing Engine...
+[2020.08.06-19.04.38:125][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.08.06-19.04.38:126][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.06-19.04.38:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.06-19.04.38:516][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-19.04.38:529][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-19.04.38:529][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-19.04.38:529][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-19.04.38:589][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-19.04.38:611][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-19.04.38:616][  0]LogInit: FAudioDevice initialized.
+[2020.08.06-19.04.38:617][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.06-19.04.38:813][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/Oxido/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.06-19.04.38:821][  0]LogInit: Texture streaming: Enabled
+[2020.08.06-19.04.38:828][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.06-19.04.38:828][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.06-19.04.38:829][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.06-19.04.38:877][  0]LogInit: Transaction tracking system initialized
+[2020.08.06-19.04.38:885][  0]BlueprintLog: New page: Editor Load
+[2020.08.06-19.04.38:908][  0]LocalizationService: Localization service is disabled
+[2020.08.06-19.04.39:470][  0]LogFileCache: Scanning file cache for directory 'E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Content/' took 0.00s
+[2020.08.06-19.04.39:470][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.06-19.04.39:470][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.06-19.04.40:048][  0]SourceControl: Source control is disabled
+[2020.08.06-19.04.40:048][  0]Cmd: MAP LOAD FILE="../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.06-19.04.40:048][  0]LightingResults: New page: Lighting Build
+[2020.08.06-19.04.40:049][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.04.40:049][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.04.40:049][  0]MapCheck: New page: Map Check
+[2020.08.06-19.04.40:049][  0]LightingResults: New page: Lighting Build
+[2020.08.06-19.04.40:070][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.08.06-19.04.40:376][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-19.04.40:387][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.06-19.04.40:411][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.08.06-19.04.40:411][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.06-19.04.40:411][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.08.06-19.04.40:411][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.363
+[2020.08.06-19.04.40:540][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.04.40:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.04.40:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.04.40:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.04.40:561][  0]LogCollectionManager: Loaded 0 collections in 0.000590 seconds
+[2020.08.06-19.04.40:572][  0]LogFileCache: Scanning file cache for directory 'E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Collections/' took 0.00s
+[2020.08.06-19.04.40:572][  0]LogFileCache: Scanning file cache for directory 'E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Content/Developers/Oxido/Collections/' took 0.00s
+[2020.08.06-19.04.40:572][  0]LogFileCache: Scanning file cache for directory 'E:/Game prodjects/KevFishingPrototype/KevFishPrototype/Content/Collections/' took 0.00s
+[2020.08.06-19.04.40:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3015 classes and 717 folders.
+[2020.08.06-19.04.40:574][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.06-19.04.40:607][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.06-19.04.40:609][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.08.06-19.04.40:733][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.06-19.04.40:735][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.06-19.04.40:739][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.06-19.04.40:825][  0]LogRenderer: Reallocating scene render targets to support 1192x620 Format 10 NumSamples 1 (Frame:1).
+[2020.08.06-19.04.40:981][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.06-19.04.40:981][  0]LogLoad: (Engine Initialization) Total time: 8.71 seconds
+[2020.08.06-19.04.40:981][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.06-19.04.41:024][  0]LogAssetRegistry: Asset discovery search completed in 5.1529 seconds
+[2020.08.06-19.04.41:030][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.08.06-19.04.41:031][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.06-19.04.41:050][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.06-19.12.32:222][983]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:fishinteractref' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:Sphere' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:Cone' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.SKEL_Fish_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:fishinteractref' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:Sphere' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:Cone' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:262][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Fish.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar:GetPercent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar:GetPercent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.SKEL_FishingBar_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.SKEL_FishingBar_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.SKEL_FishingBar_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.SKEL_FishingBar_C:ProgressBar_97' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.SKEL_FishingBar_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:270][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar_C:ProgressBar_97' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishingBar.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:StartFishing' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:ChangeDirection' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:MoveFish' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:StopFishing' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:FishLookRot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:TargetArrowlocation' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:FishMoveFloat' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Cube' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Plane' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Plane1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Fish' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Limit1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:Limit2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.SKEL_FishInteract_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:FishLookRot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:TargetArrowlocation' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:FishMoveFloat' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Cube' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Plane' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Plane1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Fish' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Limit1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:277][983]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract_C:Limit2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FishInteract.PackageMetaData'
+[2020.08.06-19.12.32:351][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishC2B6742141CDFE8A73C41496D71A0646.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype1/Fish.uasset'
+[2020.08.06-19.12.32:353][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Fish" FILE="../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Fish.uasset" SILENT=true
+[2020.08.06-19.12.32:365][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Fish11922D504623973A4CFCD39B123310FD.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Fish.uasset'
+[2020.08.06-19.12.32:378][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishingBar5D64D0954DC258A5FAA3AC8EEB1AF2A5.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype1/FishingBar.uasset'
+[2020.08.06-19.12.32:429][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishInteract7B7DDED74183DF25A83CF79E6C9984F3.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype1/FishInteract.uasset'
+[2020.08.06-19.12.32:443][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishInteract66DE3D1049CEEDC463A7FBB6C1332BBC.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/FishInteract.uasset'
+[2020.08.06-19.12.32:681][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.06-19.12.32:710][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.08.06-19.12.32:731][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.08.06-19.12.32:810][983]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonCharacter279A26374771FC3BAC0B388D98AB6915.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.06-19.12.32:874][983]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Prototype1/Fish.Fish
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Fish.Fish
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Fish.Default__Fish_C
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Fish.Fish_C
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Prototype1/FishingBar.FishingBar
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/FishInteract.FishInteract
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/FishInteract.Default__FishInteract_C
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/FishInteract.FishInteract_C
+[2020.08.06-19.12.32:874][983]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.06-19.12.42:543][ 87]LogEditorViewport: Clicking on Actor (LMB): FishInteract_C (FishInteract)
+[2020.08.06-19.12.46:626][523]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.06-19.12.50:862][929]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.06-19.12.50:874][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.12.50:875][929]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.06-19.12.50:878][929]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.08.06-19.12.51:063][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.06-19.12.51:064][929]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2020.08.06-19.12.51:064][929]PIE: New page: PIE session: ThirdPersonExampleMap (6 Aug 2020, 23:12:51)
+[2020.08.06-19.12.51:065][929]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.06-19.12.51:066][929]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.06-19.12.51:066][929]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.12.51:079][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012198s)
+[2020.08.06-19.12.51:080][929]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-19.12.51:080][929]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2020.08.06-19.12.51:080][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014187s)
+[2020.08.06-19.12.51:100][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-19.12.51:101][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-19.12.51:101][929]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-19.12.51:101][929]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: Channel Order:
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-19.12.51:148][929]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-19.12.51:164][929]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-19.12.51:165][929]LogInit: FAudioDevice initialized.
+[2020.08.06-19.12.51:181][929]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.06-19.12.51:183][929]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.06-21.12.51
+[2020.08.06-19.12.51:183][929]LogWorld: Bringing up level for play took: 0.001155
+[2020.08.06-19.12.51:183][929]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.08.06-19.12.51:186][929]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.08.06-19.12.51:188][929]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.925
+[2020.08.06-19.12.51:188][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.12.53:400][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.12.53:400][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.12.53:400][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.12.53:400][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.12.53:400][192]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.12.53:400][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.12.53:400][192]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.12.53:401][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.12.53:405][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.06-19.12.53:405][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.12.53:407][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.12.53:428][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.12.53:430][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.12.53:433][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.06-19.12.53:503][198]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.08.06-19.12.54:321][296]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.06-19.12.58:031][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.06-19.12.58:599][756]LogEditorViewport: Clicking on Actor (LMB): FishInteract_C (FishInteract)
+[2020.08.06-19.13.01:664][115]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.06-19.13.03:043][267]LogEditorViewport: Clicking on Actor (LMB): FishInteract_C (FishInteract)
+[2020.08.06-19.13.04:801][471]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.06-19.13.12:767][282]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.12:836][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.08.06-19.13.12:836][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.06-19.13.12:836][283]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.06-19.13.13:582][310]LogMaterial: Display: Missing cached shader map for material Yellow_3, compiling. 
+[2020.08.06-19.13.14:931][354]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.08.06-19.13.15:161][360]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Materials/Yellow_2.Yellow_2
+[2020.08.06-19.13.15:166][360]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.15:434][360]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.15:448][360]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.15:465][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.15:536][360]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.06-19.13.18:019][483]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.18:033][483]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.18:643][518]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.18:663][518]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.18:671][518]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.06-19.13.19:485][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.06-19.13.19:778][583]LogMaterialEditor: Applying material Yellow_2
+[2020.08.06-19.13.20:190][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.08.06-19.13.20:202][583]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.20:257][583]LogMaterial: Display: Missing cached shader map for material Yellow_2, compiling. 
+[2020.08.06-19.13.20:309][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.08.06-19.13.20:321][583]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.06-19.13.22:443][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.06-19.13.22:443][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.08.06-19.13.22:444][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.06-19.13.22:448][583]TextureStreamingBuild: Display: Compiling optional shaders took 2.138 seconds.
+[2020.08.06-19.13.22:468][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.06-19.13.23:465][644]LogSlate: Window 'Yellow_2' being destroyed
+[2020.08.06-19.13.23:516][644]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.13.23:516][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.13.25:929][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.08.06-19.13.26:778][736]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.06-19.13.26:778][736]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.06-19.13.26:806][736]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/RedD1D9D3CD416585BA5C8F58A4C2652BB5.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Materials/Red.uasset'
+[2020.08.06-19.13.26:939][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.08.06-19.13.26:965][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.06-19.13.26:987][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.06-19.13.27:030][736]AssetCheck: New page: Asset Save: Red
+[2020.08.06-19.13.27:030][736]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/Materials/Red.Red
+[2020.08.06-19.13.29:694][927]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Blue88CB38C7449E781F433FDBAD9807887F.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Materials/Blue.uasset'
+[2020.08.06-19.13.29:807][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.08.06-19.13.29:837][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.08.06-19.13.29:857][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.08.06-19.13.29:897][927]AssetCheck: New page: Asset Save: Blue
+[2020.08.06-19.13.29:897][927]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/Materials/Blue.Blue
+[2020.08.06-19.13.31:023][  1]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Materials/Blue.Blue
+[2020.08.06-19.13.31:028][  1]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.31:144][  1]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.31:158][  1]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.31:176][  1]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.06-19.13.31:176][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.06-19.13.31:176][  1]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.06-19.13.31:176][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.32:842][ 90]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.06-19.13.33:405][123]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.06-19.13.33:591][135]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.33:611][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.33:811][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.06-19.13.34:416][181]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.34:433][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.06-19.13.34:442][181]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.06-19.13.34:857][210]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.08.06-19.13.35:491][248]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.08.06-19.13.35:950][277]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.08.06-19.13.35:977][279]LogMaterialEditor: Applying material Blue
+[2020.08.06-19.13.36:380][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.06-19.13.36:393][279]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.36:453][279]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.08.06-19.13.36:495][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.08.06-19.13.36:507][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.08.06-19.13.36:507][279]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.06-19.13.38:701][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.06-19.13.38:703][279]TextureStreamingBuild: Display: Compiling optional shaders took 2.208 seconds.
+[2020.08.06-19.13.38:725][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.06-19.13.40:260][370]LogSlate: Window 'Blue' being destroyed
+[2020.08.06-19.13.40:301][370]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.13.40:301][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.13.41:161][433]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.06-19.13.42:049][491]LogEditorViewport: Clicking on Actor (LMB): FishInteract_C (FishInteract)
+[2020.08.06-19.13.43:112][599]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.06-19.13.43:685][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract
+[2020.08.06-19.13.43:858][661]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.08.06-19.13.44:659][662]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.06-19.13.53:683][314]LogSlate: Window 'FishInteract' being destroyed
+[2020.08.06-19.13.53:699][314]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.13.53:699][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.14.07:290][447]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.06-19.14.14:567][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.FishSpot2
+[2020.08.06-19.14.21:229][966]BlueprintLog: New page: Compile FishSpot2
+[2020.08.06-19.14.21:516][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.08.06-19.14.23:751][177]LogRenderer: Reallocating scene render targets to support 1192x716 Format 10 NumSamples 1 (Frame:882).
+[2020.08.06-19.14.23:762][178]LogSlate: Window 'FishSpot2' being destroyed
+[2020.08.06-19.14.48:968][994]BlueprintLog: New page: Compile FishSpot2
+[2020.08.06-19.14.49:212][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.08.06-19.14.51:630][272]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.06-19.14.51:740][273]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.08.06-19.14.52:823][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.06-19.16.32:349][470]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.06-19.16.54:799][ 48]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.16.55:042][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.08.06-19.17.01:284][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.08.06-19.17.01:548][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.SKEL_FishInteract2_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:567][737]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/FishSpot2.PackageMetaData'
+[2020.08.06-19.17.01:624][737]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishInteract23C2FC41842BA146332BB238BAF54BF21.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.uasset'
+[2020.08.06-19.17.01:872][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.08.06-19.17.01:911][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.06-19.17.01:943][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.06-19.17.01:995][737]AssetCheck: New page: Asset Save: FishInteract2
+[2020.08.06-19.17.01:995][737]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Prototype2/FishInteract2.FishInteract2
+[2020.08.06-19.18.26:437][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.08.06-19.18.26:743][656]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonExampleMap_Auto178AA95FE4421FD0EFCF9E18D80581D58.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.08.06-19.18.26:749][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.355
+[2020.08.06-19.18.26:749][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.355
+[2020.08.06-19.18.26:749][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.06-19.18.26:770][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.08.06-19.18.26:770][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.08.06-19.18.26:836][656]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonCharacter_Auto156F645DF44CE81347A6CF69E5E4CA5E7.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.08.06-19.18.26:837][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract] ([1] browsable assets)...
+[2020.08.06-19.18.26:848][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract]
+[2020.08.06-19.18.26:848][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract]
+[2020.08.06-19.18.26:905][656]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishInteract_Auto186C030EF4549F19F960AAE9354FFF052.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract_Auto1.uasset'
+[2020.08.06-19.18.26:905][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Materials/Blue] ([1] browsable assets)...
+[2020.08.06-19.18.26:918][656]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Materials/Blue.Blue]
+[2020.08.06-19.18.26:918][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Materials/Blue]
+[2020.08.06-19.18.26:981][656]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Blue_Auto1A1A3AB4C4A2CCBA3822412B7DD80EC50.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Materials/Blue_Auto1.uasset'
+[2020.08.06-19.18.26:982][656]LogFileHelpers: Auto-saving content packages took 0.233
+[2020.08.06-19.21.27:592][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.08.06-19.21.27:594][254]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.SKEL_QTE_WD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ED.PackageMetaData'
+[2020.08.06-19.21.27:594][254]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ED.PackageMetaData'
+[2020.08.06-19.21.27:595][254]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ED.PackageMetaData'
+[2020.08.06-19.21.27:595][254]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ED.PackageMetaData'
+[2020.08.06-19.21.27:595][254]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ED.PackageMetaData'
+[2020.08.06-19.21.27:627][254]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_WD03877AF442DA3F996CCBDA82939A94B8.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.uasset'
+[2020.08.06-19.21.27:781][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.06-19.21.27:814][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.08.06-19.21.27:841][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.06-19.21.27:890][254]AssetCheck: New page: Asset Save: QTE_WD
+[2020.08.06-19.21.27:890][254]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD
+[2020.08.06-19.21.28:368][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_WD.QTE_WD
+[2020.08.06-19.24.55:581][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.08.06-19.24.55:647][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.08.06-19.24.55:970][799]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonExampleMapBE9855AE4BC70D8189F180AF34917FB6.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.06-19.24.56:001][799]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.396
+[2020.08.06-19.24.56:080][799]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonCharacterE2EE836548B60B3D3815B99F501C8AAC.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.06-19.24.56:146][799]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/FishInteract54EECA4549B7DA9A494BDA82A5C06FED.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype1/FishInteract.uasset'
+[2020.08.06-19.24.56:163][799]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Blue8BE185DF4AA2B3C1481123BF61AF3910.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Materials/Blue.uasset'
+[2020.08.06-19.24.56:193][799]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.06-19.24.56:193][799]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.06-19.24.56:193][799]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.06-19.24.56:193][799]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Prototype1/FishInteract.FishInteract
+[2020.08.06-19.24.56:193][799]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/Materials/Blue.Blue
+[2020.08.06-19.33.55:516][ 88]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oxido\Desktop\Y.png)
+[2020.08.06-19.33.55:554][ 88]LogTexture: Display: Building textures: Y (BGRA8, 134X132)
+[2020.08.06-19.33.55:598][ 88]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oxido\Desktop\X.png)
+[2020.08.06-19.33.55:601][ 88]LogTexture: Display: Building textures: X (BGRA8, 134X132)
+[2020.08.06-19.33.55:605][ 88]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oxido\Desktop\B.png)
+[2020.08.06-19.33.55:607][ 88]LogTexture: Display: Building textures: B (BGRA8, 134X132)
+[2020.08.06-19.33.55:612][ 88]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oxido\Desktop\A.png)
+[2020.08.06-19.33.55:614][ 88]LogTexture: Display: Building textures: A (BGRA8, 134X132)
+[2020.08.06-19.34.22:781][475]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.08.06-19.34.38:610][260]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct.QTE_Struct
+[2020.08.06-19.34.54:295][596]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.08.06-19.35.04:432][796]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_ataTableD6C77D30462067D768FE6A8B1BE62EB3.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_ataTable.uasset'
+[2020.08.06-19.35.04:621][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.08.06-19.35.04:667][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.08.06-19.35.04:699][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.06-19.35.04:747][796]AssetCheck: New page: Asset Save: QTE_ataTable
+[2020.08.06-19.35.04:747][796]LogContentValidation: Display: Validating DataTable /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_ataTable.QTE_ataTable
+[2020.08.06-19.35.08:030][183]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_DataTableCF8EBAA349A2C958E0402E9929AF0CF0.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable.uasset'
+[2020.08.06-19.35.08:205][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.06-19.35.08:245][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.08.06-19.35.08:277][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.06-19.35.08:327][183]AssetCheck: New page: Asset Save: QTE_DataTable
+[2020.08.06-19.35.08:328][183]LogContentValidation: Display: Validating DataTable /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable.QTE_DataTable
+[2020.08.06-19.35.08:841][243]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable.QTE_DataTable
+[2020.08.06-19.35.16:270][ 61]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.06-19.35.58:468][932]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_Struct8C958A0A4105F6D6042186AA9A3D5891.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct.uasset'
+[2020.08.06-19.35.58:483][932]AssetCheck: New page: Asset Save: QTE_Struct
+[2020.08.06-19.35.58:483][932]LogContentValidation: Display: Validating UserDefinedStruct /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct.QTE_Struct
+[2020.08.06-19.37.57:169][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.08.06-19.37.57:171][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.080
+[2020.08.06-19.37.57:171][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/Y] ([1] browsable assets)...
+[2020.08.06-19.37.57:175][147]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/Y.Y]
+[2020.08.06-19.37.57:175][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/Y]
+[2020.08.06-19.37.57:182][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Y_Auto251D0202941AC55B797CDD4A72B305E49.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/Y_Auto2.uasset'
+[2020.08.06-19.37.57:182][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/X] ([1] browsable assets)...
+[2020.08.06-19.37.57:184][147]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/X.X]
+[2020.08.06-19.37.57:184][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/X]
+[2020.08.06-19.37.57:193][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/X_Auto2283831C7404E1B3477CEDCABEB08A0FB.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/X_Auto2.uasset'
+[2020.08.06-19.37.57:194][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/B] ([1] browsable assets)...
+[2020.08.06-19.37.57:195][147]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/B.B]
+[2020.08.06-19.37.57:195][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/B]
+[2020.08.06-19.37.57:203][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/B_Auto2772F62424114F19B1F2C86856399F512.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/B_Auto2.uasset'
+[2020.08.06-19.37.57:204][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/A] ([1] browsable assets)...
+[2020.08.06-19.37.57:205][147]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/A.A]
+[2020.08.06-19.37.57:205][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/A]
+[2020.08.06-19.37.57:214][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/A_Auto2658D318C4F33C526171BB7B44D8490CB.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/A_Auto2.uasset'
+[2020.08.06-19.37.57:215][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct] ([1] browsable assets)...
+[2020.08.06-19.37.57:215][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct]
+[2020.08.06-19.37.57:223][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_Struct_Auto2179B5C6B4997C723B92D4BB1AFF28CB6.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct_Auto2.uasset'
+[2020.08.06-19.37.57:224][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable] ([1] browsable assets)...
+[2020.08.06-19.37.57:224][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable]
+[2020.08.06-19.37.57:231][147]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_DataTable_Auto2F5CEAD7945B4BA72AFF6AA803C5D79E3.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable_Auto2.uasset'
+[2020.08.06-19.37.57:231][147]LogFileHelpers: Auto-saving content packages took 0.061
+[2020.08.06-19.39.41:133][187]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_DataTableD15229E2466999CC4CBBFDA710D17C0A.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable.uasset'
+[2020.08.06-19.39.41:149][187]AssetCheck: New page: Asset Save: QTE_DataTable
+[2020.08.06-19.39.41:149][187]LogContentValidation: Display: Validating DataTable /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_DataTable.QTE_DataTable
+[2020.08.06-19.39.43:091][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.08.06-19.39.43:121][389]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/YD85D6AFD4E30612A6963C49733EF46A1.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/Y.uasset'
+[2020.08.06-19.39.43:135][389]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/XD2CEFB7F4A575F7A530FB09913548708.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/X.uasset'
+[2020.08.06-19.39.43:149][389]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/B9D7AFF844D83CE5CEED327B72D9355B7.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/B.uasset'
+[2020.08.06-19.39.43:163][389]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/AD5699E1449017472E0700C811CFC94CB.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/A.uasset'
+[2020.08.06-19.39.43:174][389]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/QTE_Struct7DE5190F4347659EAC769F8459B60574.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct.uasset'
+[2020.08.06-19.39.43:209][389]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.06-19.39.43:209][389]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/Y.Y
+[2020.08.06-19.39.43:209][389]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/X.X
+[2020.08.06-19.39.43:209][389]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/B.B
+[2020.08.06-19.39.43:209][389]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Prototype2/A.A
+[2020.08.06-19.39.43:209][389]LogContentValidation: Display: Validating UserDefinedStruct /Game/ThirdPersonBP/Blueprints/Prototype2/QTE_Struct.QTE_Struct
+[2020.08.06-19.50.15:860][310]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.50.16:176][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.08.06-19.50.30:983][ 30]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.50.31:275][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.08.06-19.52.13:900][916]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.52.14:199][916]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.08.06-19.55.16:340][724]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.55.16:635][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.08.06-19.55.17:211][761]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonCharacterCE3657DF42B49B49DF7DCEBC85346C42.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.06-19.55.17:227][761]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.08.06-19.55.17:227][761]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.06-19.55.19:519][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.08.06-19.55.19:572][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.06-19.55.19:812][  9]LogSavePackage: Moving '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Saved/ThirdPersonExampleMap242801F74D12CB4AA88F4B8CCF686B19.tmp' to '../../../../../Game prodjects/KevFishingPrototype/KevFishPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.06-19.55.19:843][  9]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.306
+[2020.08.06-19.55.19:851][  9]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.08.06-19.55.19:851][  9]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.06-19.55.20:737][111]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.06-19.55.20:753][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.20:754][111]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.06-19.55.20:776][111]LogPlayLevel: [PlayLevel] Compiling FishInteract before play...
+[2020.08.06-19.55.21:061][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.08.06-19.55.21:062][111]LogPlayLevel: PlayLevel: Blueprint regeneration took 308 ms (1 blueprints)
+[2020.08.06-19.55.21:062][111]PIE: New page: PIE session: ThirdPersonExampleMap (6 Aug 2020, 23:55:21)
+[2020.08.06-19.55.21:062][111]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.55.21:071][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009167s)
+[2020.08.06-19.55.21:072][111]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-19.55.21:072][111]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2020.08.06-19.55.21:072][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010224s)
+[2020.08.06-19.55.21:110][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-19.55.21:110][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-19.55.21:110][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-19.55.21:111][111]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-19.55.21:111][111]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: Channel Order:
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-19.55.21:154][111]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-19.55.21:176][111]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.21:177][111]LogInit: FAudioDevice initialized.
+[2020.08.06-19.55.21:188][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.06-19.55.21:190][111]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.06-21.55.21
+[2020.08.06-19.55.21:190][111]LogWorld: Bringing up level for play took: 0.001351
+[2020.08.06-19.55.21:190][111]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.08.06-19.55.21:193][111]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.93
+[2020.08.06-19.55.21:193][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.23:368][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.23:368][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.23:368][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.23:368][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.32:014][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.32:014][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.32:014][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.32:014][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.55.32:014][404]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.55.32:014][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.32:014][404]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.55.32:014][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.55.32:024][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.06-19.55.32:024][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.32:028][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.55.32:061][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.32:063][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.55.32:067][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.08.06-19.55.32:116][407]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.08.06-19.55.40:407][318]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.55.40:682][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.08.06-19.55.41:584][398]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.06-19.55.41:601][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.41:601][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.06-19.55.41:601][398]PIE: New page: PIE session: ThirdPersonExampleMap (6 Aug 2020, 23:55:41)
+[2020.08.06-19.55.41:601][398]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.55.41:611][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009376s)
+[2020.08.06-19.55.41:612][398]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-19.55.41:612][398]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.08.06-19.55.41:612][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010443s)
+[2020.08.06-19.55.41:650][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-19.55.41:651][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-19.55.41:651][398]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-19.55.41:651][398]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: Channel Order:
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-19.55.41:693][398]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-19.55.41:708][398]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.41:709][398]LogInit: FAudioDevice initialized.
+[2020.08.06-19.55.41:714][398]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.06-19.55.41:715][398]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.06-21.55.41
+[2020.08.06-19.55.41:715][398]LogWorld: Bringing up level for play took: 0.001181
+[2020.08.06-19.55.41:715][398]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.08.06-19.55.41:718][398]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.545
+[2020.08.06-19.55.41:718][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.42:689][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.42:690][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.42:690][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.42:690][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.43:366][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.43:366][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.43:366][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.43:366][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.43:833][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.43:833][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.43:833][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.43:833][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.44:167][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.44:167][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.44:167][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.44:167][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.44:484][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.44:484][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.44:484][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.44:484][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.44:759][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.44:759][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.44:759][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.44:759][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.44:984][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.44:984][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.44:984][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.44:984][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.45:194][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.45:194][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.45:194][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.45:194][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.45:411][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.45:411][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.45:411][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.45:411][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.45:611][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.45:611][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.45:611][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.45:611][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.45:802][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.45:803][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.45:803][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.45:803][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.45:994][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.45:994][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.45:994][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.45:994][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.46:370][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.46:370][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.46:370][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.46:371][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.55.46:371][953]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.55.46:371][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.46:371][953]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.55.46:371][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.55.46:402][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.06-19.55.46:402][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.46:406][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.55.46:438][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.55.46:441][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.55.46:445][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.08.06-19.55.46:482][955]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.08.06-19.55.47:431][ 69]Cmd: SELECT NONE
+[2020.08.06-19.55.56:275][ 21]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-19.55.56:553][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.08.06-19.55.57:457][101]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.06-19.55.57:473][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.57:473][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.06-19.55.57:473][101]PIE: New page: PIE session: ThirdPersonExampleMap (6 Aug 2020, 23:55:57)
+[2020.08.06-19.55.57:473][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.55.57:483][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009152s)
+[2020.08.06-19.55.57:483][101]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-19.55.57:484][101]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2020.08.06-19.55.57:484][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010159s)
+[2020.08.06-19.55.57:522][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-19.55.57:523][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-19.55.57:523][101]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-19.55.57:523][101]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: Channel Order:
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-19.55.57:565][101]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-19.55.57:579][101]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-19.55.57:581][101]LogInit: FAudioDevice initialized.
+[2020.08.06-19.55.57:586][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.06-19.55.57:587][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.06-21.55.57
+[2020.08.06-19.55.57:588][101]LogWorld: Bringing up level for play took: 0.001290
+[2020.08.06-19.55.57:588][101]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.08.06-19.55.57:590][101]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.672
+[2020.08.06-19.55.57:591][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.55.58:551][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.58:551][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.58:551][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.58:551][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.58:551][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.55.59:043][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.59:043][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.59:043][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.59:043][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.59:043][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.55.59:228][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.59:228][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.59:228][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.59:228][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.59:228][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.55.59:412][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.59:412][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.59:412][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.59:412][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.59:412][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.55.59:595][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.59:595][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.59:595][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.59:595][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.59:595][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.55.59:770][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] B
+[2020.08.06-19.55.59:770][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X
+[2020.08.06-19.55.59:770][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] A
+[2020.08.06-19.55.59:770][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Y
+[2020.08.06-19.55.59:770][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] --------
+[2020.08.06-19.56.10:422][637]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.56.10:422][637]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.56.10:422][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.56.10:422][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.56.10:422][637]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-19.56.10:422][637]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.56.10:422][637]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.06-19.56.10:423][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.56.10:454][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.06-19.56.10:454][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-19.56.10:459][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.06-19.56.10:491][637]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.06-19.56.10:494][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.06-19.56.10:498][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.08.06-19.56.10:540][639]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.08.06-19.57.22:258][873]LogSlate: Took 0.001838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.06-20.00.07:376][169]BlueprintLog: New page: Compile QTE_WD
+[2020.08.06-20.00.07:464][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.08.06-20.00.27:413][504]LogEditorTransaction: Undo Move Nodes
+[2020.08.06-20.00.28:198][549]LogEditorTransaction: Undo Paste clipboard contents
+[2020.08.06-20.00.52:206][251]BlueprintLog: New page: Compile QTE_WD
+[2020.08.06-20.00.52:250][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.08.06-20.01.03:676][529]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.06-20.01.14:216][611]LogEditorTransaction: Undo Move Node
+[2020.08.06-20.01.30:196][358]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.06-20.01.30:489][358]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.08.06-20.01.32:039][520]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.06-20.01.32:056][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.06-20.01.32:056][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.06-20.01.32:056][520]PIE: New page: PIE session: ThirdPersonExampleMap (7 Aug 2020, 00:01:32)
+[2020.08.06-20.01.32:056][520]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.06-20.01.32:067][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010346s)
+[2020.08.06-20.01.32:067][520]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.06-20.01.32:068][520]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.08.06-20.01.32:068][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011400s)
+[2020.08.06-20.01.32:108][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.06-20.01.32:109][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.06-20.01.32:109][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.06-20.01.32:110][520]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.06-20.01.32:110][520]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Is Default: Yes
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: Channel Order:
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-20.01.32:152][520]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-20.01.32:167][520]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.06-20.01.32:168][520]LogInit: FAudioDevice initialized.
+[2020.08.06-20.01.32:177][520]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.06-20.01.32:179][520]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.06-22.01.32
+[2020.08.06-20.01.32:179][520]LogWorld: Bringing up level for play took: 0.001206
+[2020.08.06-20.01.32:179][520]LogOnline: OSS: Creating online subsystem instance for: :Context_20
